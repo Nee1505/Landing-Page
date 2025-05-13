@@ -16,12 +16,4 @@ This project is a static landing page consisting of:
 
 ---
 
-## 📸 Preview
-
-![Landing Page Preview](./screenshot.png)  
-*(Replace this with your actual screenshot file name when adding it)*
-
----
-
-## 📂 Folder Structure
 
